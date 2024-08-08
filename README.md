@@ -1,3 +1,14 @@
+Для telegraf: частота отправки метрик каждые 60 секунд, подключены метрики оперативной памяти и swap, жёсткого диска и сети.
+Сделаны скриншоты состояния метрик системы в покое длительностью минимум 15 минут
+
+
+![Telegraf-system-dashboard-Grafana](https://github.com/user-attachments/assets/55b5a441-c933-4aac-8af4-5571d46dd58a)
+![Telegraf-system-dashboard-Grafana1](https://github.com/user-attachments/assets/8099ea15-d4c8-4aae-a06f-b80a862f3caf)
+![Telegraf-system-dashboard-Grafana3](https://github.com/user-attachments/assets/fa91358d-1e54-466b-844e-b1521436ec54)
+
+
+
+
 Для prometheus:  скриншоты состояния метрик системы в покое длительностью минимум 15 минут.
 
 
